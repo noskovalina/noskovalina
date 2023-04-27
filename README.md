@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-noskovalina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noskovalina/)
 
 ### Hi there 👋
+
+Contact me: [![Linkedin Badge](https://img.shields.io/badge/-noskovalina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noskovalina/)
 
 <!--
 **noskovalina/noskovalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
