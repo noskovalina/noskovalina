@@ -8,9 +8,7 @@ Possessing an analytical mindset, I enjoy the step-by-step solution of complex p
 
 ## Projects
 
-Classification_algorithm = "https://github.com/noskovalina/Classification_algorithm"
-
-
+<a href="[url](https://github.com/noskovalina/Classification_algorithm)">Classification_algorithm</a>
 
 
 <!--
