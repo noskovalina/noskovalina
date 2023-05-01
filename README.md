@@ -8,7 +8,7 @@ Possessing an analytical mindset, I enjoy the step-by-step solution of complex p
 
 ## Projects
 
-<a href="[url](https://github.com/noskovalina/Classification_algorithm)">Classification_algorithm</a>
+<a href="https://github.com/noskovalina/Classification_algorithm">Classification_algorithm</a>
 
 
 <!--
