@@ -8,7 +8,7 @@ Possessing an analytical mindset, I enjoy the step-by-step solution of complex p
 
 ## Projects
 
-#### <a href="https://github.com/noskovalina/Classification_algorithm/blob/main/Classification%20algorithm.ipynb">Classification_algorithm</a>
+### <a href="https://github.com/noskovalina/Classification_algorithm/blob/main/Classification%20algorithm.ipynb">Classification_algorithm</a>
 In this project, a classification algorithm based on probabilistic models was developed.
 
 
