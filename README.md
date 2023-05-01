@@ -10,13 +10,6 @@ Possessing an analytical mindset, I enjoy the step-by-step solution of complex p
 
 
 
-## Stack
-
-
-
-## Certificates
-
-
 
 <!--
 **noskovalina/noskovalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
