@@ -6,7 +6,17 @@
 I am Alina, online MSc student in Data Science at the Higher School of Economics. I am actively studying programming and applied mathematics and am currently looking for an internship or position as a Data Scientist or Python Developer.
 Possessing an analytical mindset, I enjoy the step-by-step solution of complex problems; I have a successful experience in scientific research and experience in the effective management of a student team.
 
-[![Linkedin Badge](https://img.shields.io/badge/-noskovalina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noskovalina/)
+## Projects
+
+
+
+## Stack
+
+
+
+## Certificates
+
+
 
 <!--
 **noskovalina/noskovalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
