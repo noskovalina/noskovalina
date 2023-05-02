@@ -8,12 +8,15 @@ Possessing an analytical mindset, I enjoy the step-by-step solution of complex p
 
 ## Projects
 
+
 ### <a href="https://github.com/noskovalina/Classification_algorithm/blob/main/Classification%20algorithm.ipynb">Classification algorithm</a>
 In this project, a classification algorithm based on probabilistic models was developed.
 
 
+
 ### <a href="https://github.com/noskovalina/MCMC_decoder/blob/main/MCMC%20decoder.ipynb">MCMC decoder</a>
 This project implements a text decoder based on the MCMC algorithm (Markov Chain Monte Carlo).
+
 
 
 ### <a href="https://github.com/noskovalina/MNIST_Digit_Recognition/blob/main/MNIST%20Digit%20Recognition.ipynb">MNIST Digit Recognition</a>
