@@ -8,19 +8,16 @@ Possessing an analytical mindset, I enjoy the step-by-step solution of complex p
 
 ## Projects
 
-
 ### <a href="https://github.com/noskovalina/Classification_algorithm/blob/main/Classification%20algorithm.ipynb">Classification algorithm</a>
-In this project, a classification algorithm based on probabilistic models was developed.
-
+In this project, a classification algorithm based on probabilistic models was developed. The data for the project is a set of texts in English, Italian, Spanish, German, French, Polish and Portuguese.
 
 
 ### <a href="https://github.com/noskovalina/MCMC_decoder/blob/main/MCMC%20decoder.ipynb">MCMC decoder</a>
 This project implements a text decoder based on the MCMC algorithm (Markov Chain Monte Carlo).
 
 
-
 ### <a href="https://github.com/noskovalina/MNIST_Digit_Recognition/blob/main/MNIST%20Digit%20Recognition.ipynb">MNIST Digit Recognition</a>
-In this project, an image classification algorithm was written using singular value decomposition and SVM.
+In this project, an image classification algorithm was written using singular value decomposition and SVM. For this purpose, the MNIST number set was used, where the training data consists of images of digits, and the target value is the digit itself.
 
 
 
