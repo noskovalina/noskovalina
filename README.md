@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Alina, MSc in Data Science at the Higher School of Economics. I am actively studying programming and applied mathematics and am currently looking for an internship or position as a Data Scientist.
+I am Alina, MSc student in Data Science at the Higher School of Economics. I am actively studying programming and applied mathematics and am currently looking for an internship or position as a Data Scientist.
 Possessing an analytical mindset, I enjoy step-by-step solutions to complex problems; I have successful experience in scientific research and in the effective management of a student team.
 
 ## Projects
