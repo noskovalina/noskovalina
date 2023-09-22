@@ -1,6 +1,6 @@
 ### Hi there 👋 
-I am Alina, online MSc student in Data Science at the Higher School of Economics. I am actively studying programming and applied mathematics and am currently looking for an internship or position as a Data Scientist or ML Engineer.
-Possessing an analytical mindset, I enjoy the step-by-step solution of complex problems; I have a successful experience in scientific research and experience in the effective management of a student team.
+I am Alina, MSc in Data Science at the Higher School of Economics. I am actively studying programming and applied mathematics and am currently looking for an internship or position as a Data Scientist.
+Possessing an analytical mindset, I enjoy step-by-step solutions to complex problems; I have successful experience in scientific research and in the effective management of a student team.
 
 ## Projects
 
@@ -16,11 +16,6 @@ This project implements a text decoder based on the MCMC algorithm (Markov Chain
 In this project, an image classification algorithm was written using singular value decomposition and SVM. For this purpose, the MNIST number set was used, where the training data consists of images of digits, and the target value is the digit itself.
 
 
-
-<!--
-**noskovalina/noskovalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
