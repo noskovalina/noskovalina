@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Alina, a Master's student in Data Science, passionate about programming, software testing, applied mathematics and machine learning. Experienced in Biotechnology scientific research and adept at leading student teams. I love tackling challenging problems and finding step-by-step solutions. Let's connect and make the world a better place together!
+I am Alina, a Master's student in Data Science, passionate about programming, software testing and machine learning. Experienced in Biotechnology scientific research and adept at leading student teams. I love tackling challenging problems and finding step-by-step solutions. Let's connect and make the world a better place together!
 
 ## Projects
 
