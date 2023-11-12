@@ -11,6 +11,6 @@ In this project, a classification algorithm based on probabilistic models was de
 This project implements a text decoder based on the MCMC algorithm (Markov Chain Monte Carlo).
 
 
-### <a href="https://github.com/noskovalina/Digit_Recognition/blob/main/MNIST%20Digit%20Recognition.ipynb">Digit Recognition</a>
+### <a href="https://github.com/noskovalina/Digit_Recognition/blob/main/Digit%20Recognition.ipynb">Digit Recognition</a>
 In this project, an image classification algorithm was written using singular value decomposition and SVM. For this purpose, the MNIST number set was used, where the training data consists of images of digits, and the target value is the digit itself.
 
